@@ -6,16 +6,19 @@ Me gusta el mundo de la programación mi primer estudio sobre este fue estar en 
 donde aprendes a trabajar individualmente y en equipo.
 
 
-¿Qué hago?
+#¿Qué hago?
+
 Me dedico a estudiar, a realizar proyectos para ir adquiriendo más conocimientos en mi formación como programadora, 
 me gusta poder encontrar la solución en los códigos.
 
 
-¿A dónde me dirijo?
+#¿A dónde me dirijo?
+
 Mi objectivo principal, es poder ayudar en el mundo de los códigos🚀👩‍💻
 me apasiona ampliar mis perspectivas en el mundo de los códigos.
 
-¿Qué tecnologías uso?
+#¿Qué tecnologías uso?
+
 El bootcamp de Henry me ha permitido adquirir los conocimientos y experiencias fundamentales para poder despegar, así que estas serían las tecnologias:
 
 *JavaScript
@@ -29,7 +32,7 @@ El bootcamp de Henry me ha permitido adquirir los conocimientos y experiencias f
 incluyendo también HTML
 
 
-No dudes en contactarme!!
+#No dudes en contactarme!!
 Juntos podemos realizar un gran proyecto
 
 https://www.linkedin.com/in/laura-ortega-694395228
