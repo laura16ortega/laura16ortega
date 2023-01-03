@@ -1,4 +1,8 @@
+![Redux](https://user-images.githubusercontent.com/96241880/210411097-58c91a5a-c021-459e-a176-26480574ea98.png)
+
+
 # Hola! mi nombre es Laura Ortega👩‍💻
+
 
 ¿Quién soy?
 soy programadora full stack orientada al trabajo del back-end y front-end y creación de material visual.
