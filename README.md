@@ -33,4 +33,5 @@ No dudes en contactarme!!
 Juntos podemos realizar un gran proyecto
 
 https://www.linkedin.com/in/laura-ortega-694395228
+
 📧e-Mail: laurajulianaortegamartinez@gmail.com 
