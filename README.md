@@ -42,3 +42,5 @@ Juntos podemos realizar un gran proyecto
 https://www.linkedin.com/in/laura-ortega-694395228
 
 📧e-Mail: laurajulianaortegamartinez@gmail.com 
+![image](https://user-images.githubusercontent.com/96241880/210411311-6e024a37-e7ef-43cd-9d1f-50fc0b29c74d.png)
+
